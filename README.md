@@ -12,7 +12,7 @@ I have experience leading and managing teams
 [![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)](https://www.java.com)
 ![Git](https://img.shields.io/badge/-Git-f44611?logo=git&logoColor=white&style=flat) 
 ![Github](https://img.shields.io/badge/-Github-black?logo=github&logoColor=white&style=flat) 
-[![Scrum](https://img.shields.io/badge/-Scrum-yellow?style=flat)]
+![Scrum](https://img.shields.io/badge/-Scrum-yellow?style=flat)
 
 
 
