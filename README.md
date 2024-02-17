@@ -9,7 +9,7 @@ I have experience leading and managing teams
 
 ## Languages & Tools 
 ![Python](https://img.shields.io/badge/-Python%203-blue?logo=python&logoColor=white&style=flat) 
-[![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)](https://www.java.com)
+[![Java](https://img.shields.io/badge/Java-Programmer-orange)](https://www.java.com)
 ![Git](https://img.shields.io/badge/-Git-f44611?logo=git&logoColor=white&style=flat) 
 ![Github](https://img.shields.io/badge/-Github-black?logo=github&logoColor=white&style=flat) 
 ![Scrum](https://img.shields.io/badge/-Scrum-yellow?style=flat)
@@ -19,5 +19,5 @@ I have experience leading and managing teams
 
 
 ## Conctact me here 👇
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://github.com/oscartoledoc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/oscartoledoc/)
 ![Gmail](https://img.shields.io/badge/-oscartoledo1799@gmail.com-FC1212?logo=gmail&logoColor=white&style=flat)
