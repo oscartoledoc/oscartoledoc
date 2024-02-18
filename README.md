@@ -8,14 +8,33 @@ I have experience leading and managing teams
 
 
 ## Languages & Tools 
-![Python](https://img.shields.io/badge/-Python%203-blue?logo=python&logoColor=white&style=flat) 
-[![Java](https://img.shields.io/badge/Java-Programmer-orange)](https://www.java.com)
+[![Python](https://img.shields.io/badge/-Python%203-blue?logo=python&logoColor=white&style=flat)](https://www.python.org) ![Flask](https://img.shields.io/badge/-Flask-green?logo=flask&logoColor=white&style=flat)
+[![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat)](https://www.java.com) ![Spring](https://img.shields.io/badge/-Spring-green?logo=spring&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-f44611?logo=git&logoColor=white&style=flat) 
 ![Github](https://img.shields.io/badge/-Github-black?logo=github&logoColor=white&style=flat) 
-![Scrum](https://img.shields.io/badge/-Scrum-yellow?style=flat)
+![Scrum](https://img.shields.io/badge/-Scrum-yellow?)
 
 
-
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="50" height="50"/>
+  </a>
+</p>
 
 
 ## Conctact me here 👇
