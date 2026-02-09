@@ -1,7 +1,7 @@
 # Hello everyone 👋
 
-📚 I'm a passionate of Backend Developer. I'm currently studying Mechatronics Engineering.
-✋🏼 I am passionate about code development combined with agile management. I have knowledge in Backend Development with Java - Spring and Python - Flask, enhanced with the Scrum framework. 
+📚 I'm a passionate of Backend Developer. I'm Mechatronics Engineer.
+✋🏼 I am passionate about code development combined with agile management. I have knowledge in Backend Development with Python - Flask, enhanced with the Scrum framework. 
 I have experience leading and managing teams
 
 🔵 Self-taught, curious, good to work in team and I really love never stop learning.
