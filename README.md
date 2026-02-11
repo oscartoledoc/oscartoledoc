@@ -9,7 +9,6 @@ I have experience leading and managing teams
 
 ## Languages & Tools 
 [![Python](https://img.shields.io/badge/-Python%203-blue?logo=python&logoColor=white&style=flat)](https://www.python.org) ![Flask](https://img.shields.io/badge/-Flask-green?logo=flask&logoColor=white&style=flat)
-[![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat)](https://www.java.com) ![Spring](https://img.shields.io/badge/-Spring-green?logo=spring&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-f44611?logo=git&logoColor=white&style=flat) 
 ![Github](https://img.shields.io/badge/-Github-black?logo=github&logoColor=white&style=flat) 
 ![Scrum](https://img.shields.io/badge/-Scrum-yellow?)
